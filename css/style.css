@@ -1,8 +1,12 @@
-
 header {
     background-image: url(../img/pattern.png);
     background-color: #4FA0FF;
     background-size: 30%;
+}
+
+.booleaner {
+    padding-top: 40px;
+    padding-left: 10px;
 }
 
 .logo {
@@ -43,17 +47,17 @@ ul {
 }
 
 table {
-    width: 1200px;
+    width: 100%;
+    border-collapse: collapse;
 }
 
 th {
     color: white;
     background-color: #4FA0FF;
-    margin: 0;
 
 }
 
-.testo3 {
+.intestazione {
     text-align: left;
 }
 
@@ -67,24 +71,27 @@ th {
     margin-bottom: 10px;
 }
 
-.lorem {
+.testo {
     color: white;
     font-size: 20px;
     font-weight: bold;
-    margin-top: 50px;
+    
 }
 
-.lorem1 {
+.opzione1 {
     width: 220px;
     height: 160px;
     background-image: url(../img/monitor.jpg);
     background-size: cover;
     margin-bottom: 20px;
+    padding: 10px;
 }
 
-.lorem2 {
+.opzione2 {
     width: 220px;
     height: 160px;
     background-image: url(../img/graph.jpg);
     background-size: cover;
+    padding: 10px;
+
 }
