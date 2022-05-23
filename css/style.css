@@ -9,7 +9,7 @@ header {
     height: 180px;
 }
 
-h1{
+h1 {
     margin-top: 10px;
     margin-bottom: 0;
 }
@@ -18,7 +18,7 @@ h1{
     margin-bottom: 20px;
 }
 
-.nome{
+.nome {
     color: #1FA9E6
 }
 
@@ -32,4 +32,24 @@ h1{
 
 .evidenzia {
     background-color: yellow;
+}
+
+ul {
+    margin: 0;
+    padding: 10px;
+}
+
+th {
+    color: white;
+    background-color: #4FA0FF;
+    margin: 0;
+
+}
+
+.testo3 {
+    text-align: left;
+}
+
+.scuro {
+    background-color: #b1e5f2;
 }
